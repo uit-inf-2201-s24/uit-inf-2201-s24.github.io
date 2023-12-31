@@ -4,22 +4,26 @@ layout: default
 
 ## Administrative information
 
-Administrative course information is available [here](https://sa.uit.no/utdanning/emner/emne?p_document_id=822456)
+Administrative course information is available [here](https://en.uit.no/utdanning/emner/emne?p_document_id=822456)
 
-We use Canvas to share important information, make sure to check your email. For discussions/chat the course has its own Discord server, you will find and invitation link on Canvas.
+We use Canvas to share important information, make sure to check your email. 
+For discussions/chat the course has its own Discord server, you will find and invitation link on Canvas.
 
 The github organization for this course can be found [here](https://github.com/uit-inf-2201-s24)
 
-The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52)
+The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). 
+Note that this is the room allocation schedule, it does not say which days there will be lectures and topics. See below for that information.
 
 **Staff**
 
-* John Markus Bjørndalen <john.markus.bjorndalen@uit.no> (Course responsible, Lecturer)
-* Michael John Murphy <michael.j.murphy@uit.no> (Lecturer)
+* John Markus Bjørndalen <john.markus.bjorndalen@uit.no> (Course responsible, Lectures)
+* Loïc Guégan (Lectures)
+* Michael John Murphy <michael.j.murphy@uit.no> (Projects)
 * Belal Medhat Mostafa AbdAlRheem <belal.m.abdalrheem@uit.no> (TA, group #)
 * Øyvind Arne Moen Nohr <oyvind.a.nohr@uit.no> (TA, group 1)
-* Ragnhild Abel Grape <ragnhild.a.grape@uit.no> (TA, group #)
-* Ilya Taksis <ilya.taksis@uit.no> (TA, group #)
+* NN (TA, group #)
+* NN (TA, group #)
+* NN (TA, group #)
 
 **Cheating**
 
@@ -65,14 +69,15 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 ## Mandatory assignments
 
 | Project |	Start      | Due     | Subject | Lecturer |
-|---------|------------|---------|----------|---------|
-| P2 	    | 17.01       | 07.02     | [Assignment](URL) | JMB
-| P3 	    | 07.02       | 28.02     | [Assignment](URL) | JMB
-| P4 	    | 28.02       | 03.04     | [Assignment](URL) | JMB
-| P5 	    | 03.04       | 24.04     | [Assignment](URL) | JMB
+|---------|-------|-------|-------------------|----------|
+| P2      | 17.01 | 07.02 | [Assignment](URL) | MM       |
+| P3      | 07.02 | 28.02 | [Assignment](URL) | MM       |
+| P4      | 28.02 | 03.04 | [Assignment](URL) | MM       |
+| P5      | 03.04 | 24.04 | [Assignment](URL) | MM       |
 
 ## Exercises
+
 | Project | Start | Due  | Subject           | Lecturer |
-| ------- | ----- | ---- | ----------------- | -------- |
-| P1 	    | 11.01       |      | [Assignment](URL) | Mike
-| P6 	    | 24.04       |      | [Assignment](URL) | JMB
+|---------|-------|-----|-------------------|----------|
+| P1      | 11.01 |     | [Assignment](URL) | Mike     |
+| P6      | 24.04 |     | [Assignment](URL) | MM       |

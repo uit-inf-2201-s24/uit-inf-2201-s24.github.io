@@ -1,29 +1,8 @@
+This is the landing page for the INF-2201 2024 GitHub repository. 
+
+This repository uses a template that provides UiT styling for the [public web page](https://uit-inf-2201-s24.github.io/) for the course. 
+
+* [index.md](index.md) has the same information that is rendered on the front page. This is probably the document you're interested in if you're looking for an overview, links and updated schedules.
+* [README-uit-template.md](README-uit-template.md) has the README information from the UiT template that was used. 
 
 
-## Website template for UiT courses using GitHub Classroom
-
-How to use this template:
-
-1. Make sure you have created a new organization first following
-   https://github.com/uit-no/github-course-guide#github-organization.
-2. Now you can generate a website repository from this template:
-   https://github.com/uit-no/github-course-template/generate. 
-   Remember to specify that the repository should be created in the new organization.
-3. For the "Owner" select the newly created organization.
-   For the "Repository name" use (organization name).github.io, e.g.:
-   "uit-inf-2202-f16.github.io". Select "Public". Leave "Include all branches" unchecked,
-   click "Create repository from template".
-4. In the newly created repository adjust information in `_config.yml`.
-5. In the newly created repository modify the syllabus in the `index.md` file.
-
-Your course website will automatically appear at https://(organization name).github.io/.
-
-You and the TAs can now update the syllabus, add lecture notes, and so on by
-pushing to the repository.
-
-After you modify the repository sources (`_config.yml`, `index.md`), GitHub Pages
-will automatically regenerate HTML pages.
-
-If possible, creating a redirect in the UiT web server makes it easier to
-remember the course website address. The inf-2202 course is for example
-redirected from: http://www.cs.uit.no/kursinfo/inf2202

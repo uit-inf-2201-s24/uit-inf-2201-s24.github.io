@@ -25,6 +25,8 @@ Note that this is the room allocation schedule, it does not say which days there
 * NN (TA, group #)
 * NN (TA, group #)
 
+UiT Student administration: [TopDesk link from Canvas](https://uit.topdesk.net/tas/public/ssp/1550ac93-3cae-443d-a606-4ac1b2e5e6e1).
+
 **Cheating**
 
 As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from other's work. Cheating is punishable by cancellation of exams and/or exclusion from university.

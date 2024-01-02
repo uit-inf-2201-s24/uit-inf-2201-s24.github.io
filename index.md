@@ -11,8 +11,6 @@ For discussions/chat the course has its own Discord server, you will find and in
 
 The github organization for this course can be found [here](https://github.com/uit-inf-2201-s24)
 
-The schedule for this course can be found [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). 
-Note that this is the room allocation schedule, it does not say which days there will be lectures and topics. See below for that information.
 
 **Staff**
 
@@ -34,6 +32,14 @@ As a student at UiT, you are obliged to familiarize yourself with the current ru
 You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art?p_document_id=684332
 
 ## Lecture plan
+
+The room allocation and times are available [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). 
+
+Below is the scheduled dates and topics for lectures and project hand-outs. Please note that: 
+
+- The schedule is tentative and will probably be updated
+- We may not be in the same room every day or week. Please check your calendar or the room allocation plan above for updated information.
+
 
 | W# | wdays       | Mon      | Tue                       | Wed            | Thu                                   | Fr              |
 |---:|-------------|----------|---------------------------|----------------|---------------------------------------|-----------------|
@@ -70,7 +76,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Mandatory assignments
 
-| Project |	Start      | Due     | Subject | Lecturer |
+| Project | Start | Due   | Subject           | Lecturer |
 |---------|-------|-------|-------------------|----------|
 | P2      | 17.01 | 07.02 | [Assignment](URL) | MM       |
 | P3      | 07.02 | 28.02 | [Assignment](URL) | MM       |
@@ -79,7 +85,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 
 ## Exercises
 
-| Project | Start | Due  | Subject           | Lecturer |
+| Project | Start | Due | Subject           | Lecturer |
 |---------|-------|-----|-------------------|----------|
 | P1      | 11.01 |     | [Assignment](URL) | Mike     |
 | P6      | 24.04 |     | [Assignment](URL) | MM       |

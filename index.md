@@ -19,9 +19,9 @@ The github organization for this course can be found [here](https://github.com/u
 * Michael John Murphy <michael.j.murphy@uit.no> (Projects)
 * Belal Medhat Mostafa AbdAlRheem <belal.m.abdalrheem@uit.no> (TA, group #)
 * Øyvind Arne Moen Nohr <oyvind.a.nohr@uit.no> (TA, group 1)
-* NN (TA, group #)
-* NN (TA, group #)
-* NN (TA, group #)
+* Ragnhild Abel Grape (TA, group #)
+* Ilya Taksis (TA, group #)
+* Hoang Loc La (TA, group #)
 
 UiT Student administration: [TopDesk link from Canvas](https://uit.topdesk.net/tas/public/ssp/1550ac93-3cae-443d-a606-4ac1b2e5e6e1).
 

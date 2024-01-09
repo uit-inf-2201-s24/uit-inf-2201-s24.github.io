@@ -29,7 +29,7 @@ UiT Student administration: [TopDesk link from Canvas](https://uit.topdesk.net/t
 
 As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from other's work. Cheating is punishable by cancellation of exams and/or exclusion from university.
 
-You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art?p_document_id=684332
+You can read more about plagiarism and cheating [here](https://uit.no/sensor).
 
 ## Lecture plan
 

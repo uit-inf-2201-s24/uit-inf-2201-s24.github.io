@@ -17,11 +17,11 @@ The github organization for this course can be found [here](https://github.com/u
 * John Markus Bjørndalen <john.markus.bjorndalen@uit.no> (Course responsible, Lectures)
 * Loïc Guégan (Lectures)
 * Michael John Murphy <michael.j.murphy@uit.no> (Projects)
-* Belal Medhat Mostafa AbdAlRheem <belal.m.abdalrheem@uit.no> (TA, group #)
 * Øyvind Arne Moen Nohr <oyvind.a.nohr@uit.no> (TA, group 1)
-* Ragnhild Abel Grape (TA, group #)
-* Ilya Taksis (TA, group #)
-* Hoang Loc La (TA, group #)
+* Ilya Taksis (TA, group 2)
+* Belal Medhat Mostafa AbdAlRheem <belal.m.abdalrheem@uit.no> (TA, group 3)
+* Ragnhild Abel Grape (TA, group 4)
+* Hoang Loc La (TA, group [1-4])
 
 UiT Student administration: [TopDesk link from Canvas](https://uit.topdesk.net/tas/public/ssp/1550ac93-3cae-443d-a606-4ac1b2e5e6e1).
 
@@ -78,14 +78,14 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 
 | Project | Start | Due   | Subject           | Lecturer |
 |---------|-------|-------|-------------------|----------|
-| P2      | 17.01 | 07.02 | [Assignment](URL) | MM       |
-| P3      | 07.02 | 28.02 | [Assignment](URL) | MM       |
-| P4      | 28.02 | 03.04 | [Assignment](URL) | MM       |
-| P5      | 03.04 | 24.04 | [Assignment](URL) | MM       |
+| P2      | 17.01 | 07.02 | [TBA](URL) | MM       |
+| P3      | 07.02 | 28.02 | [TBA](URL) | MM       |
+| P4      | 28.02 | 03.04 | [TBA](URL) | MM       |
+| P5      | 03.04 | 24.04 | [TBA](URL) | MM       |
 
 ## Exercises
 
 | Project | Start | Due | Subject           | Lecturer |
 |---------|-------|-----|-------------------|----------|
-| P1      | 11.01 |     | [Assignment](URL) | Mike     |
-| P6      | 24.04 |     | [Assignment](URL) | MM       |
+| P1      | 11.01 |     | [TBA](URL) | Mike     |
+| P6      | 24.04 |     | [TBA](URL) | MM       |

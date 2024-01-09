@@ -78,14 +78,14 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 
 | Project | Start | Due   | Subject           | Lecturer |
 |---------|-------|-------|-------------------|----------|
-| P2      | 17.01 | 07.02 | [TBA](URL) | MM       |
-| P3      | 07.02 | 28.02 | [TBA](URL) | MM       |
-| P4      | 28.02 | 03.04 | [TBA](URL) | MM       |
-| P5      | 03.04 | 24.04 | [TBA](URL) | MM       |
+| P2      | 17.01 | 05.02 | Cooperative scheduling, locks | MM       |
+| P3      | 07.02 | 26.02 | Preemption, syscalls and dining philosophers | MM       |
+| P4      | 28.02 | 01.04 | IPC, memory | MM       |
+| P5      | 03.04 | 22.04 | Virtual Memory| MM       |
 
 ## Exercises
 
 | Project | Start | Due | Subject           | Lecturer |
 |---------|-------|-----|-------------------|----------|
-| P1      | 11.01 |     | [TBA](URL) | Mike     |
-| P6      | 24.04 |     | [TBA](URL) | MM       |
+| P1      | 11.01 |     | Booting | MM     |
+| P6      | 24.04 |     | File system | MM       |

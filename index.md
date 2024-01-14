@@ -39,34 +39,36 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 
 - The schedule is tentative and will probably be updated
 - We may not be in the same room every day or week. Please check your calendar or the room allocation plan above for updated information.
+- The numbers in front of the lectures: these correspond to "lecture numbers" as they were given previous years, but may be slightly out 
+  of order this year as we are updating the course content. 
 
 
-| W# | wdays       | Mon      | Tue                       | Wed            | Thu                                   | Fr              |
-|---:|-------------|----------|---------------------------|----------------|---------------------------------------|-----------------|
-|  2 | 08.01-12.01 |          | 01 intro                  | P1 out         | 02 ia32 os supp, protection, syscalls |                 |
-|  3 | 15.01-19.01 |          | 04 processes, nonpreempt  | P2 out         | 05 threads, critsec                   |                 |
-|  4 | 22.01-26.01 |          | 03 os structure           |                | 06 semaphores                         |                 |
-|  5 | 29.01-02.02 |          | 07 monitors               |                | 08 preemptive                         |                 |
-|  6 | 05.02-09.02 | P2 in    | *SAMEFOLKETS DAG*         | P3 out         |                                       |                 |
-|  7 | 12.02-16.02 |          | 09 deadlocks              |                | 10 cpu scheduling  (MOVE?)            |                 |
-|  8 | 19.02-23.02 |          | 11 msgpassing             |                |                                       |                 |
-|  9 | 26.02-01.03 | P3 in    | 12 io devices and drivers | P4 out         |                                       |                 |
-| 10 | 04.03-08.03 |          | 13 addr-trans paging      |                |                                       |                 |
-| 11 | 11.03-15.03 |          | 14 paging and vm design   |                |                                       |                 |
-| 12 | 18.03-22.03 | P4 in    | 14 paging .. #2           |                |                                       |                 |
-| 13 |             |          | *EASTER*                  | *EASTER*       | *EASTER*                              |                 |
-| 14 | 01.04-05.04 |          |                           | P5 out         |                                       |                 |
-| 15 | 08.04-12.04 |          | 15 storage systems        |                |                                       |                 |
-| 16 | 15.04-19.04 |          | 16 file systems           |                |                                       |                 |
-| 17 | 22.04-26.04 | P5 in    | 16 file syst #2           | P6. (optional) |                                       |                 |
-| 18 | 29.04-03.05 |          |                           | *RED DAY*      |                                       |                 |
-| 19 | 06.05-10.05 |          | 17 security               |                | *RED DAY*                             |                 |
-| 20 | 13.05-17.05 |          | 18 exam prep              |                |                                       |                 |
-| 21 | 20.05-24.05 | =>lists? |                           |                |                                       |                 |
-| 22 | 27.05-31.05 |          |                           |                |                                       |                 |
-| 23 | 03.06-07-06 | exam?    |                           |                |                                       |                 |
-| 24 | 10.06-14-06 |          |                           |                |                                       | End of semester |
-|    |             |          |                           |                |                                       |                 |
+| W# | wdays       | Mon      | Tue                       | Wed            | Thu                                     | Fr              |
+|---:|-------------|----------|---------------------------|----------------|-----------------------------------------|-----------------|
+|  2 | 08.01-12.01 |          | 01 intro                  | P1 out         | 02 + 04 syscalls, processes, protection |                 |
+|  3 | 15.01-19.01 |          | 04 processes, nonpreempt  | P2 out         | 05 threads, critsec                     |                 |
+|  4 | 22.01-26.01 |          | 03 os structure           |                | 06 semaphores                           |                 |
+|  5 | 29.01-02.02 |          | 07 monitors               |                | 08 preemptive                           |                 |
+|  6 | 05.02-09.02 | P2 in    | *SAMEFOLKETS DAG*         | P3 out         |                                         |                 |
+|  7 | 12.02-16.02 |          | 09 deadlocks              |                | 10 cpu scheduling  (MOVE?)              |                 |
+|  8 | 19.02-23.02 |          | 11 msgpassing             |                |                                         |                 |
+|  9 | 26.02-01.03 | P3 in    | 12 io devices and drivers | P4 out         |                                         |                 |
+| 10 | 04.03-08.03 |          | 13 addr-trans paging      |                |                                         |                 |
+| 11 | 11.03-15.03 |          | 14 paging and vm design   |                |                                         |                 |
+| 12 | 18.03-22.03 | P4 in    | 14 paging .. #2           |                |                                         |                 |
+| 13 |             |          | *EASTER*                  | *EASTER*       | *EASTER*                                |                 |
+| 14 | 01.04-05.04 |          |                           | P5 out         |                                         |                 |
+| 15 | 08.04-12.04 |          | 15 storage systems        |                |                                         |                 |
+| 16 | 15.04-19.04 |          | 16 file systems           |                |                                         |                 |
+| 17 | 22.04-26.04 | P5 in    | 16 file syst #2           | P6. (optional) |                                         |                 |
+| 18 | 29.04-03.05 |          |                           | *RED DAY*      |                                         |                 |
+| 19 | 06.05-10.05 |          | 17 security               |                | *RED DAY*                               |                 |
+| 20 | 13.05-17.05 |          | 18 exam prep              |                |                                         |                 |
+| 21 | 20.05-24.05 | =>lists? |                           |                |                                         |                 |
+| 22 | 27.05-31.05 |          |                           |                |                                         |                 |
+| 23 | 03.06-07-06 | exam?    |                           |                |                                         |                 |
+| 24 | 10.06-14-06 |          |                           |                |                                         | End of semester |
+|    |             |          |                           |                |                                         |                 |
 
 ## Readings
 

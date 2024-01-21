@@ -33,7 +33,9 @@ You can read more about plagiarism and cheating [here](https://uit.no/sensor).
 
 ## Lecture plan
 
-The room allocation and times are available [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). 
+Room allocation: 
+- The room allocation and times are available [here](https://timeplan.uit.no/emne_timeplan.php?sem=24v&module[]=INF-2201-1#week-52). 
+- If timeplan.uit.no is down (again), please look [here](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-2201%2C1&type=course&sem=24v&campus=)
 
 Below is the scheduled dates and topics for lectures and project hand-outs. Please note that: 
 

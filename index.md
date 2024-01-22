@@ -49,8 +49,8 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 |---:|-------------|----------|---------------------------|----------------|-----------------------------------------|-----------------|
 |  2 | 08.01-12.01 |          | 01 intro                  | P1 out         | 02 + 04 syscalls, processes, protection |                 |
 |  3 | 15.01-19.01 |          | 05 threads, critsec       | P2 out         | 05 cont., 06 semaphores                 |                 |
-|  4 | 22.01-26.01 |          | 03 os structure           |                | TBA                                     |                 |
-|  5 | 29.01-02.02 |          | 07 monitors               |                | 08 preemptive                           |                 |
+|  4 | 22.01-26.01 |          | 03 os structure           |                | 07 monitors                             |                 |
+|  5 | 29.01-02.02 |          |                           |                | 08 preemptive                           |                 |
 |  6 | 05.02-09.02 | P2 in    | *SAMEFOLKETS DAG*         | P3 out         |                                         |                 |
 |  7 | 12.02-16.02 |          | 09 deadlocks              |                | No lecture (TEKdagen)                   |                 |
 |  8 | 19.02-23.02 |          | 10 cpu scheduling         |                | 11 msgpassing                           |                 |

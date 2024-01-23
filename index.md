@@ -59,7 +59,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | 11 | 11.03-15.03 |          | 14 paging and vm design   |                |                                         |                 |
 | 12 | 18.03-22.03 | P4 in    | 14 paging .. #2           |                |                                         |                 |
 | 13 |             |          | *EASTER*                  | *EASTER*       | *EASTER*                                |                 |
-| 14 | 01.04-05.04 |          |                           | P5 out         |                                         |                 |
+| 14 | 01.04-05.04 | *EASTER* |                           | P5 out         |                                         |                 |
 | 15 | 08.04-12.04 |          | 15 storage systems        |                |                                         |                 |
 | 16 | 15.04-19.04 |          | 16 file systems           |                |                                         |                 |
 | 17 | 22.04-26.04 | P5 in    | 16 file syst #2           | P6. (optional) |                                         |                 |
@@ -84,7 +84,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 |---------|-------|-------|-------------------|----------|
 | P2      | 17.01 | 05.02 | Cooperative scheduling, locks | MM       |
 | P3      | 07.02 | 26.02 | Preemption, syscalls and dining philosophers | MM       |
-| P4      | 28.02 | 01.04 | IPC, memory | MM       |
+| P4      | 28.02 | 18.03 | IPC, memory   | MM       |
 | P5      | 03.04 | 22.04 | Virtual Memory| MM       |
 
 ## Exercises

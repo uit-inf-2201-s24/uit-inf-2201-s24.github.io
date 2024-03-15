@@ -57,7 +57,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 |  9 | 26.02-01.03 | P3 in    | 12 io devices and drivers | P4 out         |                                         |                 |
 | 10 | 04.03-08.03 |          | 13 addr-trans paging      |                |                                         |                 |
 | 11 | 11.03-15.03 |          | 14 paging and vm design   |                |                                         |                 |
-| 12 | 18.03-22.03 | P4 in    | 14 paging .. #2           |                |                                         |                 |
+| 12 | 18.03-22.03 | P4 in    |                           |                |                                         |                 |
 | 13 |             |          | *EASTER*                  | *EASTER*       | *EASTER*                                |                 |
 | 14 | 01.04-05.04 | *EASTER* |                           | P5 out         |                                         |                 |
 | 15 | 08.04-12.04 |          | 15 storage systems        |                |                                         |                 |

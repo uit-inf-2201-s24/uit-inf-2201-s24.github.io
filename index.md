@@ -62,7 +62,7 @@ Below is the scheduled dates and topics for lectures and project hand-outs. Plea
 | 14 | 01.04-05.04 | *EASTER* |                           | P5 out         |                                         |                 |
 | 15 | 08.04-12.04 |          | 15 storage systems        |                |                                         |                 |
 | 16 | 15.04-19.04 |          | 16 file systems           |                |                                         |                 |
-| 17 | 22.04-26.04 | P5 in    | 16 file syst #2           | P6. (optional) |                                         |                 |
+| 17 | 22.04-26.04 | P5 in    |                           | P6. (optional) |                                         |                 |
 | 18 | 29.04-03.05 |          |                           | *RED DAY*      |                                         |                 |
 | 19 | 06.05-10.05 |          | 17 security               |                | *RED DAY*                               |                 |
 | 20 | 13.05-17.05 |          | 18 exam prep              |                |                                         |                 |
